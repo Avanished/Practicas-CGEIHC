@@ -1,9 +1,12 @@
-# Practicas-CGEIHC
+# Practicas-LAB-CGEIHC
 Practicas Curso Computacion Grafica
 
 
 ## Alumno:
 Rosas Cañada Abraham
+
+## Num Cuenta:
+318307866
 
 ## Materia:
 Computacion Grafica e Interaccion Humano Computadora
