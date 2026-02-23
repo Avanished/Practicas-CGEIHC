@@ -1,21 +1,20 @@
-# Practicas-LAB-CGEIHC
-Practicas Curso Computacion Grafica
-
+# Prácticas LAB CGEIHC  
+Prácticas del Curso de Computación Gráfica e Interacción Humano-Computadora  
 
 ## Alumno:
-Rosas Cañada Abraham
+Rosas Cañada Abraham  
 
-## Num Cuenta:
-318307866
+## Número de Cuenta:
+318307866  
 
 ## Materia:
-Computacion Grafica e Interaccion Humano Computadora
+Computación Gráfica e Interacción Humano-Computadora  
 
 ## Profesor:
-ING. JOSE ROQUE ROMAN GUADARRAMA
+Ing. José Roque Román Guadarrama  
 
 ## Grupo:
-03
+03  
 
-## Semestre: 
+## Semestre:
 2026-2
